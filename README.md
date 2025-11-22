@@ -110,8 +110,4 @@ Hi, I'm Vishwas! I am a passionate developer looking to solve real-world problem
 <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dyvishwas40%26style%3Dflat-square%26color%3Dblue" alt="Profile Views" />
 
 
-
-
-
-<sub>Profile generated with ❤️ by AI</sub>
 </div>
