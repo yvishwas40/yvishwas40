@@ -85,9 +85,9 @@ Hi, I'm Vishwas! I am a passionate developer looking to solve real-world problem
 
 <!-- Top Languages Card: Shows what languages you use most -->
 
-<a href="https://github.com/yvishwas40">
+<!-- <a href="https://github.com/yvishwas40">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvishwas40&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</a>
+</a> -->
 
 
 
@@ -95,9 +95,9 @@ Hi, I'm Vishwas! I am a passionate developer looking to solve real-world problem
 
 <!-- General Stats Card: Shows stars, commits, PRs -->
 
-<a href="https://github.com/yvishwas40">
+<!-- <a href="https://github.com/yvishwas40">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yvishwas40&show_icons=true&theme=tokyonight&line_height=27&rank_icon=github&hide_border=true" alt="Vishwas's Github Stats" />
-</a>
+</a> -->
 
 
 
@@ -105,9 +105,9 @@ Hi, I'm Vishwas! I am a passionate developer looking to solve real-world problem
 
 <!-- Streak Card: Shows your current coding streak -->
 
-<a href="https://github.com/yvishwas40">
+<!-- <a href="https://github.com/yvishwas40">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yvishwas40&theme=tokyonight&hide_border=true" alt="Vishwas's Streak" />
-</a>
+</a> -->
 
 </div>
 
